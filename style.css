@@ -1,0 +1,30 @@
+img {
+    width: 600px;
+    /* 1500 */
+    height: auto;
+    /* 3:2 */
+
+}
+
+.centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centered-heading {
+    text-align: center;
+}
+
+
+
+.my-element {
+    padding: 60px;
+}
+
+p {
+    font-weight: bold;
+  }
+  body {
+    background-color: gainsboro;
+  }
