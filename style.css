@@ -28,3 +28,7 @@ p {
   body {
     background-color: gainsboro;
   }
+
+.centered-heading {
+    text-align: center;
+}
